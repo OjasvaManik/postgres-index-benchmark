@@ -3,7 +3,7 @@
 \echo ''
 \echo '============================================================'
 \echo '  B-Tree vs Hash Index Benchmark — PostgreSQL 16'
-\echo '  Piyush Gangrade & Ojasva Manik | IIST CSE'
+\echo '  Ojasva Manik, Piyush Gangrade & Prachi Yadav | IIST CSE'
 \echo '============================================================'
 \echo ''
 
