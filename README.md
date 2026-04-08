@@ -78,5 +78,6 @@ Hash indexes should be strictly reserved for highly queried, exact-match columns
 
 | Name | Institution | Department |
 |---|---|---|
-| **Piyush Gangrade** | Indore Institute of Science and Technology | Computer Science & Engineering |
 | **Ojasva Manik** | Indore Institute of Science and Technology | Computer Science & Engineering |
+| **Piyush Gangrade** | Indore Institute of Science and Technology | Computer Science & Engineering |
+| **Prachi Yadav** | Indore Institute of Science and Technology | Computer Science & Engineering |
